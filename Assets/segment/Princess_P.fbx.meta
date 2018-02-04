@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 0b1f2ed43d1094b479426cad6d50ff2f
+timeCreated: 1464100438
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cloth:headusOBJexport
+    100002: crown:headusOBJexport
+    100004: face:headusOBJexport
+    100006: group1
+    100008: group2
+    100010: group3
+    100012: group4
+    100014: group5
+    100016: group6
+    100018: hair:headusOBJexport
+    100020: hand:headusOBJexport
+    100022: leg:headusOBJexport
+    100024: pCube1
+    100026: pCube1 1
+    100028: pCube2
+    100030: pCube2 1
+    100032: pCube3
+    100034: pCube3 1
+    100036: polySurface10
+    100038: polySurface14
+    100040: polySurface15
+    100042: polySurface21
+    100044: polySurface21 1
+    100046: polySurface22
+    100048: polySurface23
+    100050: polySurface24
+    100052: polySurface29
+    100054: polySurface5
+    100056: polySurface5 1
+    100058: prin1:headusOBJexport
+    100060: //RootNode
+    100062: shoe:headusOBJexport
+    100064: skirt:headusOBJexport
+    100066: sunDirection
+    100068: transform1
+    100070: transform10
+    100072: transform10 1
+    100074: transform11
+    100076: transform11 1
+    100078: transform12
+    100080: transform13
+    100082: transform2
+    100084: transform3
+    100086: transform30
+    100088: transform31
+    100090: transform36
+    100092: transform37
+    100094: transform38
+    100096: transform39
+    100098: transform4
+    100100: transform4 1
+    100102: transform5
+    100104: transform5 1
+    100106: transform6
+    100108: transform6 1
+    100110: transform7
+    100112: transform7 1
+    100114: transform8
+    100116: transform8 1
+    100118: transform9
+    100120: transform9 1
+    400000: cloth:headusOBJexport
+    400002: crown:headusOBJexport
+    400004: face:headusOBJexport
+    400006: group1
+    400008: group2
+    400010: group3
+    400012: group4
+    400014: group5
+    400016: group6
+    400018: hair:headusOBJexport
+    400020: hand:headusOBJexport
+    400022: leg:headusOBJexport
+    400024: pCube1
+    400026: pCube1 1
+    400028: pCube2
+    400030: pCube2 1
+    400032: pCube3
+    400034: pCube3 1
+    400036: polySurface10
+    400038: polySurface14
+    400040: polySurface15
+    400042: polySurface21
+    400044: polySurface21 1
+    400046: polySurface22
+    400048: polySurface23
+    400050: polySurface24
+    400052: polySurface29
+    400054: polySurface5
+    400056: polySurface5 1
+    400058: prin1:headusOBJexport
+    400060: //RootNode
+    400062: shoe:headusOBJexport
+    400064: skirt:headusOBJexport
+    400066: sunDirection
+    400068: transform1
+    400070: transform10
+    400072: transform10 1
+    400074: transform11
+    400076: transform11 1
+    400078: transform12
+    400080: transform13
+    400082: transform2
+    400084: transform3
+    400086: transform30
+    400088: transform31
+    400090: transform36
+    400092: transform37
+    400094: transform38
+    400096: transform39
+    400098: transform4
+    400100: transform4 1
+    400102: transform5
+    400104: transform5 1
+    400106: transform6
+    400108: transform6 1
+    400110: transform7
+    400112: transform7 1
+    400114: transform8
+    400116: transform8 1
+    400118: transform9
+    400120: transform9 1
+    2300000: cloth:headusOBJexport
+    2300002: crown:headusOBJexport
+    2300004: face:headusOBJexport
+    2300006: hair:headusOBJexport
+    2300008: hand:headusOBJexport
+    2300010: leg:headusOBJexport
+    2300012: polySurface21
+    2300014: polySurface29
+    2300016: shoe:headusOBJexport
+    2300018: skirt:headusOBJexport
+    3300000: cloth:headusOBJexport
+    3300002: crown:headusOBJexport
+    3300004: face:headusOBJexport
+    3300006: hair:headusOBJexport
+    3300008: hand:headusOBJexport
+    3300010: leg:headusOBJexport
+    3300012: polySurface21
+    3300014: polySurface29
+    3300016: shoe:headusOBJexport
+    3300018: skirt:headusOBJexport
+    4300000: polySurface29
+    4300002: face:headusOBJexport
+    4300004: cloth:headusOBJexport
+    4300006: skirt:headusOBJexport
+    4300008: hair:headusOBJexport
+    4300010: hand:headusOBJexport
+    4300012: crown:headusOBJexport
+    4300014: polySurface21
+    4300016: leg:headusOBJexport
+    4300018: shoe:headusOBJexport
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

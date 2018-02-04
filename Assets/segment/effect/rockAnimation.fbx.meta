@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 8ea4095698ed7e34a83aadd4ab4648a4
+timeCreated: 1463487648
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bolder1
+    100002: bolder1 1
+    100004: bolder10
+    100006: bolder12
+    100008: bolder13
+    100010: bolder14
+    100012: bolder15
+    100014: bolder16
+    100016: bolder17
+    100018: bolder18
+    100020: bolder2
+    100022: bolder20
+    100024: bolder21
+    100026: bolder22
+    100028: bolder23
+    100030: bolder24
+    100032: bolder25
+    100034: bolder26
+    100036: bolder3
+    100038: bolder4
+    100040: bolder5
+    100042: bolder6
+    100044: bolder7
+    100046: bolder8
+    100048: bolder9
+    100050: bolderGroup1
+    100052: bolderGroup2
+    100054: curve1
+    100056: curve10
+    100058: curve11
+    100060: curve12
+    100062: curve13
+    100064: curve14
+    100066: curve15
+    100068: curve16
+    100070: curve17
+    100072: curve18
+    100074: curve19
+    100076: curve2
+    100078: curve20
+    100080: curve21
+    100082: curve22
+    100084: curve23
+    100086: curve3
+    100088: curve4
+    100090: curve5
+    100092: curve6
+    100094: curve7
+    100096: curve8
+    100098: curve9
+    100100: //RootNode
+    400000: bolder1
+    400002: bolder1 1
+    400004: bolder10
+    400006: bolder12
+    400008: bolder13
+    400010: bolder14
+    400012: bolder15
+    400014: bolder16
+    400016: bolder17
+    400018: bolder18
+    400020: bolder2
+    400022: bolder20
+    400024: bolder21
+    400026: bolder22
+    400028: bolder23
+    400030: bolder24
+    400032: bolder25
+    400034: bolder26
+    400036: bolder3
+    400038: bolder4
+    400040: bolder5
+    400042: bolder6
+    400044: bolder7
+    400046: bolder8
+    400048: bolder9
+    400050: bolderGroup1
+    400052: bolderGroup2
+    400054: curve1
+    400056: curve10
+    400058: curve11
+    400060: curve12
+    400062: curve13
+    400064: curve14
+    400066: curve15
+    400068: curve16
+    400070: curve17
+    400072: curve18
+    400074: curve19
+    400076: curve2
+    400078: curve20
+    400080: curve21
+    400082: curve22
+    400084: curve23
+    400086: curve3
+    400088: curve4
+    400090: curve5
+    400092: curve6
+    400094: curve7
+    400096: curve8
+    400098: curve9
+    400100: //RootNode
+    2300000: bolder1
+    2300002: bolder1 1
+    2300004: bolder10
+    2300006: bolder12
+    2300008: bolder13
+    2300010: bolder14
+    2300012: bolder15
+    2300014: bolder16
+    2300016: bolder17
+    2300018: bolder18
+    2300020: bolder2
+    2300022: bolder20
+    2300024: bolder21
+    2300026: bolder22
+    2300028: bolder23
+    2300030: bolder24
+    2300032: bolder25
+    2300034: bolder26
+    2300036: bolder3
+    2300038: bolder4
+    2300040: bolder5
+    2300042: bolder6
+    2300044: bolder7
+    2300046: bolder8
+    2300048: bolder9
+    3300000: bolder1
+    3300002: bolder1 1
+    3300004: bolder10
+    3300006: bolder12
+    3300008: bolder13
+    3300010: bolder14
+    3300012: bolder15
+    3300014: bolder16
+    3300016: bolder17
+    3300018: bolder18
+    3300020: bolder2
+    3300022: bolder20
+    3300024: bolder21
+    3300026: bolder22
+    3300028: bolder23
+    3300030: bolder24
+    3300032: bolder25
+    3300034: bolder26
+    3300036: bolder3
+    3300038: bolder4
+    3300040: bolder5
+    3300042: bolder6
+    3300044: bolder7
+    3300046: bolder8
+    3300048: bolder9
+    4300000: bolder1
+    4300002: bolder2
+    4300004: bolder3
+    4300006: bolder4
+    4300008: bolder5
+    4300010: bolder6
+    4300012: bolder7
+    4300014: bolder8
+    4300016: bolder9
+    4300018: bolder10
+    4300020: bolder12
+    4300022: bolder13
+    4300024: bolder14
+    4300026: bolder15
+    4300028: bolder16
+    4300030: bolder17
+    4300032: bolder18
+    4300034: bolder20
+    4300036: bolder21
+    4300038: bolder26
+    4300040: bolder1
+    4300042: bolder22
+    4300044: bolder23
+    4300046: bolder24
+    4300048: bolder25
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

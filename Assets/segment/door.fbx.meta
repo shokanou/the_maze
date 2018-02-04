@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 1dc1904f6c9e13c4b9a93e84f8d98145
+timeCreated: 1463235502
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: wall:pCube1
+    100004: wall:pCube2
+    100006: wall:pCube3
+    100008: wall:pCube4
+    100010: wall:pCube6
+    100012: wall:pCube7
+    100014: wall:polySurface1
+    100016: wall:polySurface2
+    100018: wall:polySurface3
+    100020: wall:polySurface4
+    100022: wall:transform1
+    100024: wall:transform2
+    100026: wall:transform3
+    100028: wall:transform4
+    100030: wall:transform5
+    100032: wall:transform6
+    100034: wall:wall:polySurface1
+    100036: wall:wall:transform1
+    100038: wall:wall:transform2
+    100040: wall:wall:wall:polySurface4
+    100042: wall:wall:wall:transform1
+    100044: wall:wall:wall:transform2
+    400000: //RootNode
+    400002: wall:pCube1
+    400004: wall:pCube2
+    400006: wall:pCube3
+    400008: wall:pCube4
+    400010: wall:pCube6
+    400012: wall:pCube7
+    400014: wall:polySurface1
+    400016: wall:polySurface2
+    400018: wall:polySurface3
+    400020: wall:polySurface4
+    400022: wall:transform1
+    400024: wall:transform2
+    400026: wall:transform3
+    400028: wall:transform4
+    400030: wall:transform5
+    400032: wall:transform6
+    400034: wall:wall:polySurface1
+    400036: wall:wall:transform1
+    400038: wall:wall:transform2
+    400040: wall:wall:wall:polySurface4
+    400042: wall:wall:wall:transform1
+    400044: wall:wall:wall:transform2
+    2300000: wall:wall:polySurface1
+    2300002: wall:wall:wall:polySurface4
+    3300000: wall:wall:polySurface1
+    3300002: wall:wall:wall:polySurface4
+    4300000: wall:wall:polySurface1
+    4300002: wall:wall:wall:polySurface4
+    7400000: Take 001
+    7400002: idle
+    7400004: open
+    7400006: down
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: wall:pCube1
+        weight: 1
+      - path: wall:pCube1/wall:transform4
+        weight: 1
+      - path: wall:pCube2
+        weight: 1
+      - path: wall:pCube2/wall:transform2
+        weight: 1
+      - path: wall:pCube3
+        weight: 1
+      - path: wall:pCube3/wall:transform1
+        weight: 1
+      - path: wall:pCube4
+        weight: 1
+      - path: wall:pCube4/wall:transform3
+        weight: 1
+      - path: wall:pCube6
+        weight: 1
+      - path: wall:pCube6/wall:transform5
+        weight: 1
+      - path: wall:pCube7
+        weight: 1
+      - path: wall:pCube7/wall:polySurface1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface1/wall:wall:transform2
+        weight: 1
+      - path: wall:pCube7/wall:polySurface2
+        weight: 1
+      - path: wall:pCube7/wall:polySurface2/wall:wall:transform1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface3
+        weight: 1
+      - path: wall:pCube7/wall:polySurface3/wall:wall:wall:transform1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface4
+        weight: 1
+      - path: wall:pCube7/wall:polySurface4/wall:wall:wall:transform2
+        weight: 1
+      - path: wall:pCube7/wall:transform6
+        weight: 1
+      - path: wall:wall:polySurface1
+        weight: 1
+      - path: wall:wall:wall:polySurface4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: wall:pCube1
+        weight: 1
+      - path: wall:pCube1/wall:transform4
+        weight: 1
+      - path: wall:pCube2
+        weight: 1
+      - path: wall:pCube2/wall:transform2
+        weight: 1
+      - path: wall:pCube3
+        weight: 1
+      - path: wall:pCube3/wall:transform1
+        weight: 1
+      - path: wall:pCube4
+        weight: 1
+      - path: wall:pCube4/wall:transform3
+        weight: 1
+      - path: wall:pCube6
+        weight: 1
+      - path: wall:pCube6/wall:transform5
+        weight: 1
+      - path: wall:pCube7
+        weight: 1
+      - path: wall:pCube7/wall:polySurface1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface1/wall:wall:transform2
+        weight: 1
+      - path: wall:pCube7/wall:polySurface2
+        weight: 1
+      - path: wall:pCube7/wall:polySurface2/wall:wall:transform1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface3
+        weight: 1
+      - path: wall:pCube7/wall:polySurface3/wall:wall:wall:transform1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface4
+        weight: 1
+      - path: wall:pCube7/wall:polySurface4/wall:wall:wall:transform2
+        weight: 1
+      - path: wall:pCube7/wall:transform6
+        weight: 1
+      - path: wall:wall:polySurface1
+        weight: 1
+      - path: wall:wall:wall:polySurface4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: open
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: wall:pCube1
+        weight: 1
+      - path: wall:pCube1/wall:transform4
+        weight: 1
+      - path: wall:pCube2
+        weight: 1
+      - path: wall:pCube2/wall:transform2
+        weight: 1
+      - path: wall:pCube3
+        weight: 1
+      - path: wall:pCube3/wall:transform1
+        weight: 1
+      - path: wall:pCube4
+        weight: 1
+      - path: wall:pCube4/wall:transform3
+        weight: 1
+      - path: wall:pCube6
+        weight: 1
+      - path: wall:pCube6/wall:transform5
+        weight: 1
+      - path: wall:pCube7
+        weight: 1
+      - path: wall:pCube7/wall:polySurface1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface1/wall:wall:transform2
+        weight: 1
+      - path: wall:pCube7/wall:polySurface2
+        weight: 1
+      - path: wall:pCube7/wall:polySurface2/wall:wall:transform1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface3
+        weight: 1
+      - path: wall:pCube7/wall:polySurface3/wall:wall:wall:transform1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface4
+        weight: 1
+      - path: wall:pCube7/wall:polySurface4/wall:wall:wall:transform2
+        weight: 1
+      - path: wall:pCube7/wall:transform6
+        weight: 1
+      - path: wall:wall:polySurface1
+        weight: 1
+      - path: wall:wall:wall:polySurface4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: down
+      takeName: Take 001
+      firstFrame: 39
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: wall:pCube1
+        weight: 1
+      - path: wall:pCube1/wall:transform4
+        weight: 1
+      - path: wall:pCube2
+        weight: 1
+      - path: wall:pCube2/wall:transform2
+        weight: 1
+      - path: wall:pCube3
+        weight: 1
+      - path: wall:pCube3/wall:transform1
+        weight: 1
+      - path: wall:pCube4
+        weight: 1
+      - path: wall:pCube4/wall:transform3
+        weight: 1
+      - path: wall:pCube6
+        weight: 1
+      - path: wall:pCube6/wall:transform5
+        weight: 1
+      - path: wall:pCube7
+        weight: 1
+      - path: wall:pCube7/wall:polySurface1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface1/wall:wall:transform2
+        weight: 1
+      - path: wall:pCube7/wall:polySurface2
+        weight: 1
+      - path: wall:pCube7/wall:polySurface2/wall:wall:transform1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface3
+        weight: 1
+      - path: wall:pCube7/wall:polySurface3/wall:wall:wall:transform1
+        weight: 1
+      - path: wall:pCube7/wall:polySurface4
+        weight: 1
+      - path: wall:pCube7/wall:polySurface4/wall:wall:wall:transform2
+        weight: 1
+      - path: wall:pCube7/wall:transform6
+        weight: 1
+      - path: wall:wall:polySurface1
+        weight: 1
+      - path: wall:wall:wall:polySurface4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
